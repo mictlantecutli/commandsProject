@@ -8,8 +8,6 @@ At startup, the client and the server connect, and initial messages are sent. Th
 
 The purpose of this software is to access, create, and navigate files and folders on a server. I find it a useful tool to streamline workflow when I have useful information on different devices.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (you will need to show two pieces of software running and communicating with each other) and a walkthrough of the code.}
-
 [Software Demo Video](https://www.youtube.com/watch?v=ZF5xh71FLGU)
 
 # Network Communication
