@@ -52,8 +52,8 @@ class Server:
             print(clientRespose01.decode())
             print("-----------------------------------------------------------")
             
-            #convert the array into json to send it to the client
-            commands = ['ls', 'touch', 'cd']
+            #convert the array into json to send it to the client (MENU)
+            commands = ['ls', 'touch', 'cd', 'exit']
             commands_in_json = json.dumps(commands)
             connection.send(commands_in_json.encode())
                 
